@@ -1,0 +1,470 @@
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:22:51 PDT 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 190095551 from [1,2147483647]
+Node        : HB1065
+Process     : polysync-core-studio <2917>
+Thread      : spliced 7f90500a3700
+Internals   : 6.6.2p1/af3a357/aec814d/The OpenSplice domain service/u_domain.c/630/0/1490732571.485416342
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:22:51 PDT 2017
+Description : Service cmsoap disabled
+Node        : HB1065
+Process     : polysync-core-studio <2917>
+Thread      : spliced 7f90500a3700
+Internals   : 6.6.2p1/af3a357/aec814d/OpenSplice domain service/sr_componentInfo.c/439/0/1490732571.485790029
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:22:51 PDT 2017
+Description : Durability Client for spliced started
+Node        : HB1065
+Process     : polysync-core-studio <2917>
+Thread      : spliced 7f90500a3700
+Internals   : 6.6.2p1/af3a357/aec814d/spliced::durabilityClientStart/spliced.c/350/1/1490732571.487021145
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:22:51 PDT 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : HB1065
+Process     : polysync-core-studio <2917>
+Thread      : spliced 7f90500a3700
+Internals   : 6.6.2p1/af3a357/aec814d/v_serviceChangeState/v_service.c/286/0/1490732571.487086221
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:22:51 PDT 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : HB1065
+Process     : polysync-core-studio <2917>
+Thread      : ddsi2 7f903ae51700
+Internals   : 6.6.2p1/af3a357/aec814d/v_serviceChangeState/v_service.c/286/0/1490732571.497763607
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:22:51 PDT 2017
+Description : The durability service can be identified by ID: 190095551
+Node        : HB1065
+Process     : polysync-core-studio <2917>
+Thread      : durability 7f903b1db700
+Internals   : 6.6.2p1/af3a357/aec814d/DurabilityService/d_durability.c/676/0/1490732571.602441644
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:22:59 PDT 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : HB1065
+Process     : polysync-core-studio <2917>
+Thread      : durability 7f903b1db700
+Internals   : 6.6.2p1/af3a357/aec814d/v_serviceChangeState/v_service.c/286/0/1490732579.007399607
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:23:47 PDT 2017
+Description : Missed heartbeat for node 392380062. (DCPSPublication is complete)
+Node        : HB1065
+Process     : polysync-core-studio <2917>
+Thread      : OSPL Garbage Collector 7f9041278700
+Internals   : 6.6.2p1/af3a357/aec814d/v_spliced/v_spliced.c/2358/769/1490732627.040063936
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:23:52 PDT 2017
+Description : Missed heartbeat for node 119598360. (DCPSPublication is complete)
+Node        : HB1065
+Process     : polysync-core-studio <2917>
+Thread      : OSPL Garbage Collector 7f9041278700
+Internals   : 6.6.2p1/af3a357/aec814d/v_spliced/v_spliced.c/2358/769/1490732632.036656898
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:24:09 PDT 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 812554234 from [1,2147483647]
+Node        : HB1065
+Process     : polysync-core-dynamic-driver <3188>
+Thread      : spliced 7f95ec781700
+Internals   : 6.6.2p1/af3a357/aec814d/The OpenSplice domain service/u_domain.c/630/0/1490732649.533529978
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:24:09 PDT 2017
+Description : Service cmsoap disabled
+Node        : HB1065
+Process     : polysync-core-dynamic-driver <3188>
+Thread      : spliced 7f95ec781700
+Internals   : 6.6.2p1/af3a357/aec814d/OpenSplice domain service/sr_componentInfo.c/439/0/1490732649.533898639
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:24:09 PDT 2017
+Description : Durability Client for spliced started
+Node        : HB1065
+Process     : polysync-core-dynamic-driver <3188>
+Thread      : spliced 7f95ec781700
+Internals   : 6.6.2p1/af3a357/aec814d/spliced::durabilityClientStart/spliced.c/350/1/1490732649.535046976
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:24:09 PDT 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : HB1065
+Process     : polysync-core-dynamic-driver <3188>
+Thread      : spliced 7f95ec781700
+Internals   : 6.6.2p1/af3a357/aec814d/v_serviceChangeState/v_service.c/286/0/1490732649.535099211
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:24:09 PDT 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : HB1065
+Process     : polysync-core-dynamic-driver <3188>
+Thread      : ddsi2 7f95e4230700
+Internals   : 6.6.2p1/af3a357/aec814d/v_serviceChangeState/v_service.c/286/0/1490732649.545533041
+========================================================================================
+Report      : WARNING
+Date        : Tue Mar 28 13:24:10 PDT 2017
+Description : writer 306e97fa:92:1:2c2 considering reader 6b046a9:92:1:2c7 non-responsive
+
+Node        : HB1065
+Process     : polysync-core-dynamic-driver <3188>
+Thread      : ddsi2 7f95e4230700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_transmit.c/815/0/1490732650.553382980
+========================================================================================
+Report      : WARNING
+Date        : Tue Mar 28 13:24:10 PDT 2017
+Description : writer 306e97fa:92:1:2c2 considering reader 7a4aeabd:92:1:2c7 non-responsive
+
+Node        : HB1065
+Process     : polysync-core-dynamic-driver <3188>
+Thread      : ddsi2 7f95e4230700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_transmit.c/815/0/1490732650.553453216
+========================================================================================
+Report      : WARNING
+Date        : Tue Mar 28 13:24:10 PDT 2017
+Description : writer 306e97fa:92:1:2c2 considering reader 7a4aeabd:92:1:2c7 responsive again
+
+Node        : HB1065
+Process     : polysync-core-dynamic-driver <3188>
+Thread      : recv 7f95e40b8700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_receive.c/847/0/1490732650.554223740
+========================================================================================
+Report      : WARNING
+Date        : Tue Mar 28 13:24:10 PDT 2017
+Description : writer 306e97fa:92:1:2c2 considering reader 6b046a9:92:1:2c7 responsive again
+
+Node        : HB1065
+Process     : polysync-core-dynamic-driver <3188>
+Thread      : recv 7f95e40b8700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_receive.c/847/0/1490732650.554307019
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:24:10 PDT 2017
+Description : The durability service can be identified by ID: 812554234
+Node        : HB1065
+Process     : polysync-core-dynamic-driver <3188>
+Thread      : durability 7f95e45ba700
+Internals   : 6.6.2p1/af3a357/aec814d/DurabilityService/d_durability.c/676/0/1490732650.851869758
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:24:14 PDT 2017
+Description : ================================================
+              == The service 'ddsi2' has now terminated. 
+              ================================================
+Node        : HB1065
+Process     : polysync-core-dynamic-driver <3188>
+Thread      : ddsi2 7f95e4230700
+Internals   : 6.6.2p1/af3a357/aec814d/v_serviceChangeState/v_service.c/293/0/1490732654.401446243
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:24:15 PDT 2017
+Description : ================================================
+              == The service 'durability' has now terminated. 
+              ================================================
+Node        : HB1065
+Process     : polysync-core-dynamic-driver <3188>
+Thread      : durability 7f95e45ba700
+Internals   : 6.6.2p1/af3a357/aec814d/v_serviceChangeState/v_service.c/293/0/1490732655.950587884
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:24:15 PDT 2017
+Description : Durability Client for spliced stopped
+Node        : HB1065
+Process     : polysync-core-dynamic-driver <3188>
+Thread      : spliced 7f95ec781700
+Internals   : 6.6.2p1/af3a357/aec814d/spliced::durabilityClientStop/spliced.c/374/1/1490732655.993979309
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:24:15 PDT 2017
+Description : ================================================
+              == The service 'splicedaemon' has now terminated. 
+              ================================================
+Node        : HB1065
+Process     : polysync-core-dynamic-driver <3188>
+Thread      : spliced 7f95ec781700
+Internals   : 6.6.2p1/af3a357/aec814d/v_serviceChangeState/v_service.c/293/0/1490732655.994133991
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:24:50 PDT 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 1783935745 from [1,2147483647]
+Node        : HB1065
+Process     : polysync-core-dynamic-driver <3335>
+Thread      : spliced 7f63da4fa700
+Internals   : 6.6.2p1/af3a357/aec814d/The OpenSplice domain service/u_domain.c/630/0/1490732690.834693185
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:24:50 PDT 2017
+Description : Service cmsoap disabled
+Node        : HB1065
+Process     : polysync-core-dynamic-driver <3335>
+Thread      : spliced 7f63da4fa700
+Internals   : 6.6.2p1/af3a357/aec814d/OpenSplice domain service/sr_componentInfo.c/439/0/1490732690.835214828
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:24:50 PDT 2017
+Description : Durability Client for spliced started
+Node        : HB1065
+Process     : polysync-core-dynamic-driver <3335>
+Thread      : spliced 7f63da4fa700
+Internals   : 6.6.2p1/af3a357/aec814d/spliced::durabilityClientStart/spliced.c/350/1/1490732690.836435121
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:24:50 PDT 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : HB1065
+Process     : polysync-core-dynamic-driver <3335>
+Thread      : spliced 7f63da4fa700
+Internals   : 6.6.2p1/af3a357/aec814d/v_serviceChangeState/v_service.c/286/0/1490732690.836494393
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:24:50 PDT 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : HB1065
+Process     : polysync-core-dynamic-driver <3335>
+Thread      : ddsi2 7f63d1fa9700
+Internals   : 6.6.2p1/af3a357/aec814d/v_serviceChangeState/v_service.c/286/0/1490732690.845568967
+========================================================================================
+Report      : WARNING
+Date        : Tue Mar 28 13:24:51 PDT 2017
+Description : writer 6a54b301:92:1:2c2 considering reader 6b046a9:92:1:2c7 non-responsive
+
+Node        : HB1065
+Process     : polysync-core-dynamic-driver <3335>
+Thread      : ddsi2 7f63d1fa9700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_transmit.c/815/0/1490732691.896620476
+========================================================================================
+Report      : WARNING
+Date        : Tue Mar 28 13:24:51 PDT 2017
+Description : writer 6a54b301:92:1:2c2 considering reader 7a4aeabd:92:1:2c7 non-responsive
+
+Node        : HB1065
+Process     : polysync-core-dynamic-driver <3335>
+Thread      : ddsi2 7f63d1fa9700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_transmit.c/815/0/1490732691.896686739
+========================================================================================
+Report      : WARNING
+Date        : Tue Mar 28 13:24:51 PDT 2017
+Description : writer 6a54b301:92:1:2c2 considering reader 6b046a9:92:1:2c7 responsive again
+
+Node        : HB1065
+Process     : polysync-core-dynamic-driver <3335>
+Thread      : recv 7f63d1e31700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_receive.c/847/0/1490732691.897139845
+========================================================================================
+Report      : WARNING
+Date        : Tue Mar 28 13:24:51 PDT 2017
+Description : writer 6a54b301:92:1:2c2 considering reader 7a4aeabd:92:1:2c7 responsive again
+
+Node        : HB1065
+Process     : polysync-core-dynamic-driver <3335>
+Thread      : recv 7f63d1e31700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_receive.c/847/0/1490732691.897200751
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:24:52 PDT 2017
+Description : The durability service can be identified by ID: 1783935745
+Node        : HB1065
+Process     : polysync-core-dynamic-driver <3335>
+Thread      : durability 7f63d2333700
+Internals   : 6.6.2p1/af3a357/aec814d/DurabilityService/d_durability.c/676/0/1490732692.152268784
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:24:54 PDT 2017
+Description : ================================================
+              == The service 'ddsi2' has now terminated. 
+              ================================================
+Node        : HB1065
+Process     : polysync-core-dynamic-driver <3335>
+Thread      : ddsi2 7f63d1fa9700
+Internals   : 6.6.2p1/af3a357/aec814d/v_serviceChangeState/v_service.c/293/0/1490732694.292550853
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:24:56 PDT 2017
+Description : ================================================
+              == The service 'durability' has now terminated. 
+              ================================================
+Node        : HB1065
+Process     : polysync-core-dynamic-driver <3335>
+Thread      : durability 7f63d2333700
+Internals   : 6.6.2p1/af3a357/aec814d/v_serviceChangeState/v_service.c/293/0/1490732696.249279858
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:24:56 PDT 2017
+Description : Durability Client for spliced stopped
+Node        : HB1065
+Process     : polysync-core-dynamic-driver <3335>
+Thread      : spliced 7f63da4fa700
+Internals   : 6.6.2p1/af3a357/aec814d/spliced::durabilityClientStop/spliced.c/374/1/1490732696.284531245
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:24:56 PDT 2017
+Description : ================================================
+              == The service 'splicedaemon' has now terminated. 
+              ================================================
+Node        : HB1065
+Process     : polysync-core-dynamic-driver <3335>
+Thread      : spliced 7f63da4fa700
+Internals   : 6.6.2p1/af3a357/aec814d/v_serviceChangeState/v_service.c/293/0/1490732696.284714171
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:24:59 PDT 2017
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 0 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+              SystemId             : 14556649 from [1,2147483647]
+Node        : HB1065
+Process     : polysync-core-studio <3433>
+Thread      : spliced 7f243802d700
+Internals   : 6.6.2p1/af3a357/aec814d/The OpenSplice domain service/u_domain.c/630/0/1490732699.880483800
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:24:59 PDT 2017
+Description : Service cmsoap disabled
+Node        : HB1065
+Process     : polysync-core-studio <3433>
+Thread      : spliced 7f243802d700
+Internals   : 6.6.2p1/af3a357/aec814d/OpenSplice domain service/sr_componentInfo.c/439/0/1490732699.880832452
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:24:59 PDT 2017
+Description : Durability Client for spliced started
+Node        : HB1065
+Process     : polysync-core-studio <3433>
+Thread      : spliced 7f243802d700
+Internals   : 6.6.2p1/af3a357/aec814d/spliced::durabilityClientStart/spliced.c/350/1/1490732699.882083821
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:24:59 PDT 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : HB1065
+Process     : polysync-core-studio <3433>
+Thread      : spliced 7f243802d700
+Internals   : 6.6.2p1/af3a357/aec814d/v_serviceChangeState/v_service.c/286/0/1490732699.882189573
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:24:59 PDT 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : HB1065
+Process     : polysync-core-studio <3433>
+Thread      : ddsi2 7f23fb860700
+Internals   : 6.6.2p1/af3a357/aec814d/v_serviceChangeState/v_service.c/286/0/1490732699.894796548
+========================================================================================
+Report      : WARNING
+Date        : Tue Mar 28 13:25:00 PDT 2017
+Description : writer de1de9:92:1:2c2 considering reader 6b046a9:92:1:2c7 non-responsive
+
+Node        : HB1065
+Process     : polysync-core-studio <3433>
+Thread      : ddsi2 7f23fb860700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_transmit.c/815/0/1490732700.904831975
+========================================================================================
+Report      : WARNING
+Date        : Tue Mar 28 13:25:00 PDT 2017
+Description : writer de1de9:92:1:2c2 considering reader 6b046a9:92:1:2c7 responsive again
+
+Node        : HB1065
+Process     : polysync-core-studio <3433>
+Thread      : recv 7f2428d2b700
+Internals   : 6.6.2p1/af3a357/aec814d/ddsi2/q_receive.c/847/0/1490732700.905979745
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:25:01 PDT 2017
+Description : The durability service can be identified by ID: 14556649
+Node        : HB1065
+Process     : polysync-core-studio <3433>
+Thread      : durability 7f2428e92700
+Internals   : 6.6.2p1/af3a357/aec814d/DurabilityService/d_durability.c/676/0/1490732701.201549995
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:25:08 PDT 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : HB1065
+Process     : polysync-core-studio <3433>
+Thread      : durability 7f2428e92700
+Internals   : 6.6.2p1/af3a357/aec814d/v_serviceChangeState/v_service.c/286/0/1490732708.606824263
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:25:15 PDT 2017
+Description : Missed heartbeat for node 2051730109. (DCPSPublication is complete)
+Node        : HB1065
+Process     : polysync-core-studio <3433>
+Thread      : OSPL Garbage Collector 7f2429def700
+Internals   : 6.6.2p1/af3a357/aec814d/v_spliced/v_spliced.c/2358/769/1490732715.458434669
+========================================================================================
+Report      : INFO
+Date        : Tue Mar 28 13:25:19 PDT 2017
+Description : Missed heartbeat for node 1169820590. (DCPSPublication is complete)
+Node        : HB1065
+Process     : polysync-core-studio <3433>
+Thread      : OSPL Garbage Collector 7f2429def700
+Internals   : 6.6.2p1/af3a357/aec814d/v_spliced/v_spliced.c/2358/769/1490732719.456656718
