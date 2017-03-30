@@ -17,15 +17,14 @@ defmodule Mumble do
   """
 
   def accum(s) do
-    accum_build(String.to_char_list(s), 0)
+    accum_build(String.graphemes(s), 0)
   end
 
-  def accum_build([], _) do
-    ""
+  def accum_build(s, depth) when (length(s) == 1) do
+    String.capitalize(String.duplicate(to_string(s), depth+1))
   end
 
   def accum_build([head | tail], depth) do
-    Enum.join([head), accum_build(tail, depth + 1)], "-")
+    Enum.join([String.capitalize(String.duplicate(to_string(head), depth+1)), accum_build(tail, depth + 1)], "-")
   end
-
 end
